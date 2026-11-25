@@ -20,9 +20,9 @@ st.set_page_config(
 # ==========================================
 
 MODEL_FILES = {
-    "best_house_model.pkl": "YOUR_MODEL_FILE_ID",
-    "house_imputer.pkl": "YOUR_IMPUTER_FILE_ID",
-    "house_features.pkl": "YOUR_FEATURES_FILE_ID"
+    "best_house_model.pkl": "12Dt1dlPYATp4V9tdwDQPa83bBfk2S7cl",
+    "house_imputer.pkl": "1MYR--qJ5GcckScyHzIoti_L5X0_fCURj",
+    "house_features.pkl": "1-6daVESeOG0XQuOOht_ild02XxT-JQKU"
 }
 
 # Download model files from Google Drive
